@@ -1,0 +1,24 @@
+WARNING: Error loading config file: /home/joao/.docker/config.json: open /home/joao/.docker/config.json: permission denied
+CONTAINER ID        IMAGE                       COMMAND                  CREATED             STATUS                      PORTS               NAMES
+0846f68bf3a5        eg_postgresql               "/usr/lib/postgresql…"   27 hours ago        Exited (0) 27 hours ago                         peaceful_kepler
+235c91b04ce1        portainer/portainer         "/portainer"             27 hours ago        Exited (2) 27 hours ago                         infallible_wilbur
+a596ceb7e8b9        jmnmv12/get-started:part2   "python app.py"          28 hours ago        Exited (0) 28 hours ago                         priceless_turing
+5e2715351167        friendlyhello               "python app.py"          28 hours ago        Exited (137) 28 hours ago                       bold_bose
+44159bb420b8        friendlyhello               "python app.py"          28 hours ago        Exited (0) 28 hours ago                         sweet_heyrovsky
+ae5d9860bf0c        friendlyhello               "python app.py"          28 hours ago        Exited (0) 28 hours ago                         ecstatic_poincare
+80bc9e81b2e7        047bb05fccb4                "python app.py"          28 hours ago        Exited (0) 28 hours ago                         zen_lamport
+01a5f6e3efc7        hello-world                 "/hello"                 28 hours ago        Exited (0) 28 hours ago                         nervous_elion
+02390960e618        047bb05fccb4                "python app.py"          28 hours ago        Exited (0) 28 hours ago                         vigorous_boyd
+0c0fc722acb4        047bb05fccb4                "python app.py"          28 hours ago        Exited (0) 28 hours ago                         vibrant_pascal
+fc122abacc9a        hello-world                 "/hello"                 28 hours ago        Exited (0) 28 hours ago                         brave_hopper
+e6f557a86ee7        047bb05fccb4                "python app.py"          46 hours ago        Exited (0) 46 hours ago                         frosty_dhawan
+7d30d8a65f76        047bb05fccb4                "python app.py"          46 hours ago        Exited (0) 46 hours ago                         optimistic_napier
+ece52a751a8f        047bb05fccb4                "python app.py"          46 hours ago        Exited (0) 46 hours ago                         relaxed_banach
+4903efe510bb        047bb05fccb4                "python app.py"          46 hours ago        Exited (0) 46 hours ago                         priceless_thompson
+6c3be62bdbaf        047bb05fccb4                "python app.py"          46 hours ago        Exited (0) 46 hours ago                         naughty_hugle
+b6630a041c96        047bb05fccb4                "python app.py"          47 hours ago        Exited (0) 47 hours ago                         hardcore_gagarin
+a869eea88aff        047bb05fccb4                "python app.py"          47 hours ago        Exited (0) 47 hours ago                         goofy_saha
+45c95b02e454        047bb05fccb4                "python app.py"          47 hours ago        Exited (0) 47 hours ago                         focused_kalam
+1fb2d91ee53f        047bb05fccb4                "python app.py"          47 hours ago        Exited (0) 47 hours ago                         beautiful_brattain
+0915a3667ce7        hello-world                 "/hello"                 2 days ago          Exited (0) 2 days ago                           busy_wilbur
+
